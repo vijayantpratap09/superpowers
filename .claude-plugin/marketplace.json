@@ -1,6 +1,7 @@
 {
   "name": "superpowers-dev",
   "description": "Development marketplace for Superpowers core skills library",
+  "license": "MIT",
   "owner": {
     "name": "Jesse Vincent",
     "email": "jesse@fsck.com"
@@ -9,8 +10,9 @@
     {
       "name": "superpowers",
       "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques",
-      "version": "3.4.0",
+      "version": "3.4.1",
       "source": "./",
+      "repository": "https://github.com/obra/superpowers",
       "author": {
         "name": "Jesse Vincent",
         "email": "jesse@fsck.com"
